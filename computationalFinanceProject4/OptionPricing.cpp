@@ -1,5 +1,5 @@
 //
-// Created by paragonhao on 22/1/19.
+//
 //
 
 #include "OptionPricing.h"
